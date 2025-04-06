@@ -1,10 +1,12 @@
 autostart
+.gsd-keyboard.settings-ported
 Code
 Cursor
 dconf
 discord
 Electron
 glib-2.0
+gedit
 gtk-3.0
 gtk-4.0
 kde.org
@@ -18,6 +20,7 @@ qt6ct
 session
 stacer
 swaylock
+LM Studio
 thorium
 Thunar
 Unknown Organization
